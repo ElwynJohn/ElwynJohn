@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ElwynJohn
-- 👀 I'm Studying Computing and IT at The Open University
-- 🌱 I’m currently learning C and Avalonia
-- 💞️ I’m currently working on a [chess app](https://github.com/ElwynJohn/Chess) and a game, [Firestone](https://github.com/ElwynJohn/FireStone)
 - 📫 Contact: elwynjohn919@gmail.com
 
 <!---
